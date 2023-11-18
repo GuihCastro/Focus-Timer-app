@@ -1,0 +1,9 @@
+:root {
+    font-size: clamp(40%, 1% + 2vw, 62.5%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

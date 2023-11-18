@@ -1,0 +1,14 @@
+:root {
+    --bg-color: #121214;
+    --txt-color: #F8F8FC;
+    --primary-color: #42D3FF;
+    --secondary-color: #F8F8FC;
+    --ctrls-bg-color:#242424;
+}
+
+html.light {
+    --bg-color: #F8F8FC;
+    --txt-color: #121214;
+    --primary-color: #42D3FF;
+    --ctrls-bg-color:#242424;
+}
